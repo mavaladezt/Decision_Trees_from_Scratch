@@ -28,3 +28,5 @@ __doors__: 2, 3, 4, 5more<br>
 __persons__: 2, 4, more<br>
 __lug_boot__: small, med, big<br>
 __safety__: low, med, high<br>
+
+(we will be transforming the dataset so we can have numbers instead of strings)
